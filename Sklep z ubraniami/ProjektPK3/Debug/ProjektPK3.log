@@ -1,0 +1,7 @@
+﻿  KlasyUbrania.cpp
+  Źródło.cpp
+E:\PPk\PK3\Projekt\Sklep z ubraniami\ProjektPK3\Źródło.cpp(649,12): warning C4102: "defalut": etykieta, do której nie istnieje odwołanie
+E:\PPk\PK3\Projekt\Sklep z ubraniami\ProjektPK3\Źródło.cpp(675,10): warning C4101: "nrUbrania2": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+E:\PPk\PK3\Projekt\Sklep z ubraniami\ProjektPK3\Źródło.cpp(752,10): warning C4101: "nrUbrania2": lokalna zmienna, do której nie istnieje odwołanie
+  ProjektPK3.vcxproj -> E:\PPk\PK3\Projekt\Sklep z ubraniami\Debug\ProjektPK3.exe
